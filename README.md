@@ -13,7 +13,7 @@ Create by elbanic.(elbanic12@naver.com)
 
 ### Run the program
 ```
-git clone https://github.com/elbanic/PythonTraining.git
-cd PythonTraining/LadderGame
+git clone https://github.com/elbanic/LadderGame.git
+cd LadderGame
 python3 run.py
 ```
